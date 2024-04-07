@@ -2,6 +2,8 @@
 极安·斥候(Choo)远程自动化信息收集与风险评估系统
 <a name="5ZWjT"></a>
 
+关键词：信息收集、资产探测、漏洞扫描、红队设施、互联网暴露面、自动化、安全评估、武器化建设
+
 **[点击申请试用](https://zj-jiansec.feishu.cn/share/base/form/shrcnLC291ljd4kHYPBs3yr1Kqb)**
 
 
